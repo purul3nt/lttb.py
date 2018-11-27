@@ -1,5 +1,5 @@
 import numpy as np
-
+#comment
 
 def _areas_of_triangles(a, bs, c):
     """Calculate areas of triangles from duples of vertex coordinates.
